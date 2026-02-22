@@ -1,0 +1,11 @@
+Actors:
+1. Customer - End user who orders food
+2. Restaurant - Food provider managing menu and orders
+3. Delivery Driver - Person delivering the food
+
+Use Cases:
+1. Browse Menu - Customer views available food items
+2. Place Order - Customer selects items and creates order
+3. Make Payment - Customer pays for the order
+4. Track Delivery - Customer and Driver monitor delivery status
+5. Manage Menu - Restaurant updates food items and prices
